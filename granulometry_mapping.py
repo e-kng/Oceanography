@@ -5,7 +5,7 @@
 ######################################################################################################
 
 path = 'C:/Users/Dwimo/Documents/05 DATA/00 GITHUB/Oceanography/Data/'
-file = 'MOCOSED2012_KC14_grain_size.xlsx'
+file = 'Data/core_grain_size.xlsx'
 
 display_figure = True
 save_figure = False
